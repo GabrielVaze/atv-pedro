@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppNomesBr</name>
+    </assembly>
+    <members>
+        <member name="M:AppNomesBr.MauiProgram.RegisterPages(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Método responsável por fazer a injeção de dependência das páginas da aplicação.
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

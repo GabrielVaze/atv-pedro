@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\bin\Debug\net8.0\AppNomesBr.Service.deps.json
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\bin\Debug\net8.0\AppNomesBr.Service.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\bin\Debug\net8.0\AppNomesBr.Service.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomes.7D208C10.Up2Date
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\refint\AppNomesBr.Service.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\AppNomesBr.Service.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Service\obj\Debug\net8.0\ref\AppNomesBr.Service.dll

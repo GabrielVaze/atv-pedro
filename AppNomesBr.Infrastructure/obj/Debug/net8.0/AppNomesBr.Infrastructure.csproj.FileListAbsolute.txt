@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.deps.json
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\bin\Debug\net8.0\AppNomesBr.Domain.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomes.145A43AE.Up2Date
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\refint\AppNomesBr.Infrastructure.dll
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\AppNomesBr.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\AppNomesBr-master\AppNomesBr.Infrastructure\obj\Debug\net8.0\ref\AppNomesBr.Infrastructure.dll

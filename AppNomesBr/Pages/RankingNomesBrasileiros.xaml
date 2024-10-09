@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppNomesBr.Pages.RankingNomesBrasileiros"
+             Title="Ranking Nomes BR">
+    <ScrollView>
+        <VerticalStackLayout Padding="10">
+            <!-- Campo para o nome da cidade/município -->
+            <Label Text="Informe a Cidade/Município" />
+            <Entry x:Name="entryCity" Placeholder="Ex: São Paulo" />
+
+            <!-- Campo para selecionar o sexo -->
+            <Label Text="Informe o Sexo" />
+            <Picker x:Name="pickerSex">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Masculino</x:String>
+                        <x:String>Feminino</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <!-- Botão para pesquisar -->
+            <Button Text="Pesquisar" Clicked="OnPesquisarClicked" />
+
+            <!-- Coleção de Nomes -->
+            <CollectionView x:Name="GrdNomesBr" 
+                            VerticalOptions="FillAndExpand">
+                <CollectionView.Header>
+                    <Grid Padding="5" BackgroundColor="LightBlue">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Text="Nomes" FontSize="18" FontAttributes="Bold" Grid.Column="0" />
+                        <Label Text="Ocorrências" FontSize="18" FontAttributes="Bold" Grid.Column="1" />
+                        <Label Text="Pos. Ranking" FontSize="18" FontAttributes="Bold" Grid.Column="2" />
+                    </Grid>
+                </CollectionView.Header>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding Nome}" FontSize="14" FontAttributes="Bold" Grid.Column="0" />
+                            <Label Text="{Binding Frequencia}" FontSize="14" FontAttributes="Bold" Grid.Column="1" />
+                            <Label Text="{Binding Ranking}" FontSize="14" FontAttributes="Bold" Grid.Column="2" />
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
